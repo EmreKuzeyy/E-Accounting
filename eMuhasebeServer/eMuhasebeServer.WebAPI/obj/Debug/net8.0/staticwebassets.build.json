@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "apY18sEnjLehNh2y9OBE6wra1oSic6XQPmpnPbFp1Mw=",
+  "Source": "eMuhasebeServer.WebAPI",
+  "BasePath": "_content/eMuhasebeServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

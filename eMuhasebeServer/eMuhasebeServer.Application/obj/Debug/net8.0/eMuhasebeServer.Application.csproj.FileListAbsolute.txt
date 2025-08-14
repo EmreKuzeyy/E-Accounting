@@ -1,0 +1,15 @@
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\bin\Debug\net8.0\eMuhasebeServer.Application.deps.json
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\bin\Debug\net8.0\eMuhasebeServer.Application.dll
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\bin\Debug\net8.0\eMuhasebeServer.Application.pdb
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\bin\Debug\net8.0\eMuhasebeServer.Domain.dll
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\bin\Debug\net8.0\eMuhasebeServer.Domain.pdb
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\obj\Debug\net8.0\eMuhasebeServer.Application.csproj.AssemblyReference.cache
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\obj\Debug\net8.0\eMuhasebeServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\obj\Debug\net8.0\eMuhasebeServer.Application.AssemblyInfoInputs.cache
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\obj\Debug\net8.0\eMuhasebeServer.Application.AssemblyInfo.cs
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\obj\Debug\net8.0\eMuhasebeServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\obj\Debug\net8.0\eMuhaseb.E48EC7DE.Up2Date
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\obj\Debug\net8.0\eMuhasebeServer.Application.dll
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\obj\Debug\net8.0\refint\eMuhasebeServer.Application.dll
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\obj\Debug\net8.0\eMuhasebeServer.Application.pdb
+C:\Users\kuzey\Desktop\EMuhasebe\eMuhasebeServer\eMuhasebeServer.Application\obj\Debug\net8.0\ref\eMuhasebeServer.Application.dll
